@@ -1,0 +1,9 @@
+/***
+* 子テーマ設定のスタイル
+**/
+
+.childsetting_section {
+  padding:1rem;
+  background-color:white;
+  margin-bottom: 2rem;
+}
