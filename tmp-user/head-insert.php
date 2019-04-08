@@ -10,3 +10,5 @@
 <?php endif; ?>
 <?php //ログインユーザーも含めてカウントする場合は以下に挿入 ?>
 
+<link rel="stylesheet" href="https://use.typekit.net/gve6vbe.css">
+

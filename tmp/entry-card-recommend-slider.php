@@ -14,6 +14,7 @@
         'おすすめ',
         'オススメ',
         'お勧め',
+        'recommendation',
       );
       
       $tags = get_tags();

@@ -4,6 +4,7 @@
 ////////////////////////////
 $define_recommend_tag_names = array(
   'ピックアップ',
+  'recommendation',
 );
 
 $tags = get_tags();
